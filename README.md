@@ -36,3 +36,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## 만든 사람
+
+- 이름: 이진
+- 한 줄 소개: 한화시스템 ICT부문 인재확보팀 차장, 2026년 6월에 첫 앱 만든 직장인
+- 만든 날짜: 2026-06-17
